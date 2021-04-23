@@ -3,3 +3,4 @@ A command prompt game developed in C++. The game was inspired by the Udemy cours
 
 Fixes are on the way!
 
+<a href="/files/name-of-pdf.pdf" download="name-of-pdf">Download Your PDF</a>
