@@ -3,4 +3,4 @@ A command prompt game developed in C++. The game was inspired by the Udemy cours
 
 Fixes are on the way!
 
-<a href="https://github.com/ProVante/Mr.ParkerTheGame.git" download="TripleX">Download Your PDF</a>
+<a href="C:\Users\cisco\Desktop\C++\GameDev\TripleX\Mr.ParkerTheGame-main.zip" download="Mr.ParkerTheGame-main">Download Your PDF</a>
